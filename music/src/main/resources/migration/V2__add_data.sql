@@ -1,0 +1,11 @@
+INSERT INTO users values (1, 'user', 'user123', 'premium', 'user');
+INSERT INTO users values (2, 'admin', 'admin123', 'none', 'admin');
+INSERT INTO users values (3, 'user1', 'user123', 'student', 'user');
+INSERT INTO users values (4, 'user2', 'user123', 'family', 'user');
+INSERT INTO users values (5, 'super', '1234', 'none', 'super admin');
+INSERT INTO music values (1, 'MDEE', 'Delete', 2020, '3:14');
+INSERT INTO music values (2, 'The neighbourhood', 'Sweater weather', 2017, '2:34');
+INSERT INTO music values (3, 'Madina', 'OMO', 2020, '3:58');
+INSERT INTO music values (4, 'MDEE', 'Close club', 2021, '2:40');
+INSERT INTO music values (5, 'Dua Lipa', 'Physical', 2020, '3:56');
+INSERT INTO music values (6, 'Bangers Only', 'Circle', 2020, '3:01');
